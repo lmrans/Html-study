@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>coding</title>
+    
+  </head>
+  <body>
+    <h1>halaman 3</h1>
+    <a href="Index.html">klik untuk ke halaman 1</a>
+    <br>
+    <a href="Head.html">klik untuk ke halaman 2</a>
+    </br>
+    
+  </body>
+</html>
